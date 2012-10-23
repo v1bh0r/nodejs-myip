@@ -1,0 +1,11 @@
+{
+    "name":"MyIp",
+    "version":"0.0.1",
+    "private":true,
+    "scripts":{
+        "start":"node server"
+    },
+    "dependencies":{
+        "jsdom":"~0.2.18"
+    }
+}
